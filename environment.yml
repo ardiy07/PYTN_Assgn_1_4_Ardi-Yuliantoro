@@ -1,0 +1,13 @@
+name: PYTN_Assgn_1_4_Ardi Yuliantoro
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - wordcloud
+  - folium
+  - seaborn
